@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1475073324 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio19\main.cpp
+	<iostream>
+	"Triangulo.h"
+
+1475072613 c:\users\omarm\dropbox\codeblocks proyects\ejercicio19\include\triangulo.h
+
+1475072920 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio19\src\triangulo.cpp
+	"Triangulo.h"
+	"math.h"
+
